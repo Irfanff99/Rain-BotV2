@@ -5,9 +5,9 @@ import fs from 'fs'
 
 /**Owner number**/
 global.owner = [
-  ['62895605887712', '<Admin>'],
-  ['6283190403329', '<Moderator>'],
-  ['6281313312123', '<>', true ]
+  ['6289510497533', '<Admin>'],
+  ['6289510497533', '<Moderator>'],
+  ['6289510497533', '<>', true ]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -38,26 +38,26 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '6287724225921'
-global.author = 'Rain-Bot Is the best'
-global.wm = "Adventure pitur"
+global.packname = 'IRFANFF9'
+global.author = 'IrfanBot Is the best'
+global.wm = "© IRFANFF9"
 global.multiplier = 69 // The higher, The harder levelup
 
 //
 global.eror = 'eror bodo'
 global.wait = 'Process...'
 global.render = 'wait render'
-global.webs = 'https://rizxyu.github.io/sxzyweb/'//Your Website
+global.webs = 'https://irfaneva99.github.io'//Your Website
 global.logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsHEAITWM7dPQ_irYtNvZ1hiM_zj4tZ4f6A&usqp=CAU"//Your logo
-global.gcwangsaf = "https://chat.whatsapp.com/ITjd9jsIfBAK5byfdb2cxj"//Link Group whatsapp
+global.gcwangsaf = "https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8"//Link Group whatsapp
 
 //Donasi
 global.saweria = ""// website saweria.co
-global.dana = [""]
-global.pulsa = [""]//pulsa here
-global.trakteer = ""//Link url https://
+global.dana = ["089510497533"]
+global.pulsa = ["085855854993"]//pulsa here
+global.trakteer = "https://irfaneva99.github.io/"//Link url https://
 global.paypal = ""//paypal email
-global.gopay = ""//Numver for Payment digital Gopay Gojek
+global.gopay = "089510497533"//Numver for Payment digital Gopay Gojek
 
 
 //Rpg
